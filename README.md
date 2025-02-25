@@ -53,7 +53,7 @@ APP_ENV=local
 APP_KEY=base64:iu/y4jPcK5i5uTva5P0MZE5tUlqmWPtdU4gL19p9dWo=
 APP_DEBUG=true
 APP_URL=YOUR_URL
-APP_LOGO_AUTH=https://upload.wikimedia.org/wikipedia/id/thumb/7/7a/UII_LOGO.svg/1200px-UII_LOGO.svg.png
+APP_LOGO_AUTH=https://www.uii.ac.id/wp-content/uploads/2020/02/UII-Web-Logo-450x155.png
 ```
 
 ## Contributing
